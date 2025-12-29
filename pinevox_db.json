@@ -1,0 +1,55 @@
+{
+  "company_info": {
+    "name": "PineVox",
+    "type": "UK-based AI & Telecom",
+    "values": ["Curiosity", "Global Standards", "AI Integration"],
+    "tools_used": ["React", "Node.js", "Zoho Workspace", "ChatGPT/Copilot"]
+  },
+  "roles": {
+    "frontend": {
+      "title": "Frontend Developer Intern",
+      "focus": ["React.js", "Next.js", "API Integration"],
+      "study_topics": [
+        "React Hooks (useState, useEffect)",
+        "Next.js file-based routing",
+        "Fetching data with Axios/Fetch",
+        "CSS Modules & Tailwind"
+      ],
+      "interview_questions": [
+        "What is the difference between Virtual DOM and Real DOM?",
+        "How do you handle API errors in React?",
+        "Explain Server-Side Rendering (SSR) in Next.js."
+      ]
+    },
+    "backend": {
+      "title": "Backend Developer Intern",
+      "focus": ["Node.js", "APIs", "Database Integrations"],
+      "study_topics": [
+        "REST API methods (GET, POST, PUT, DELETE)",
+        "Express Middleware",
+        "JWT Authentication",
+        "SQL vs NoSQL databases"
+      ],
+      "interview_questions": [
+        "What is the Event Loop in Node.js?",
+        "Difference between SQL (Relational) and MongoDB (NoSQL)?",
+        "How do you secure a REST API?"
+      ]
+    },
+    "analyst": {
+      "title": "Technical Business Analyst",
+      "focus": ["Workflows", "Documentation", "AI Research"],
+      "study_topics": [
+        "Writing User Stories",
+        "UML Diagrams",
+        "SWOT Analysis",
+        "Prompt Engineering for AI"
+      ],
+      "interview_questions": [
+        "How do you translate a client requirement into a technical feature?",
+        "Explain a time you used AI to solve a problem.",
+        "How do you prioritize features in a product roadmap?"
+      ]
+    }
+  }
+}
